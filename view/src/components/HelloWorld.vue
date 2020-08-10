@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <van-button type="primary">按钮</van-button>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
